@@ -5,8 +5,6 @@ The implementation of the paper:
 Shuliang Wang, Jiabao Zhu, Zhifei Li, and Sijie Ruan,  
 "Sequential Recommendation via Multi-domain Data Integration and Diffusion Priors."
 
-The method was previously referred to as DPCDSR: Diffusion Prior-guided Cross-Domain Sequential Recommendation.
-
 Please cite our paper if you find our code useful. Thanks!
 
 Contact: [sjruan@bit.edu.cn](mailto:sjruan@bit.edu.cn)
